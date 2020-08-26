@@ -1,3 +1,7 @@
+---
+title: Leggimi
+---
+
 # 21-lezioni
 
 Questo sito contiene la traduzione in Italiano delle 21 lezioni sul Bitcoin, che potete
