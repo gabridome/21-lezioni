@@ -10,6 +10,7 @@ quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons i
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 ```
+
 = 21 Lezioni
 == Cosa ho imparato nel cadere dentro la tana del Bianconiglio
 
