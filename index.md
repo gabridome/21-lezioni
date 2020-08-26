@@ -17,11 +17,12 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 Un'esplorazione sulle domande e sulle lezioni apprese nel cadere dentro la tana del Bianconiglio del Bitcoin.
 
+```
 <div style="position: relative;">
   <img src="/assets/images/21-lessons-book-ebook-audiobook.webp" alt="21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole">
 </div>
 
-
+```
 
 > The White Rabbit put on his spectacles. 'Where shall I begin, please your
 > Majesty?' he asked. '[Begin at the beginning][preface],' the King said
