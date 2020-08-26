@@ -1,12 +1,6 @@
----
-layout: lezione
-title: Prefazione
-quote: "La piccola Alice <br/> g <br/> i <br/> ù <br/>  per il buco, <br/> battè la testa <br/>  e si ferì."
-audio: /assets/audio/21lessons/0-00.m4a
-permalink: preface
-order: ch0-00
-toc: true
----
+<h1>Prefazione</h1>
+
+<quote>"La piccola Alice <br/> g <br/> i <br/> ù <br/>  per il buco, <br/> battè la testa <br/>  e si ferì."</quote>
 
 Cadere dentro alla tana del coniglio del Bitcoin è un'esperienza strana. Come molti altri,
 sento di aver imparato di più negli ultimi due anni studiando Bitcoin
