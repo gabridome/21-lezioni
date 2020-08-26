@@ -1,6 +1,8 @@
-# 21-lezioni
-Questo sito contiene la traduzione in Italiano delle 21 lezioni sul Bitcoin, che potete
-Trovare in lingua originale sul sito https://21lessons.com.
+# 21 Lessons
+## What I've Learned from Falling Down the Bitcoin Rabbit Hole
 
-Grazie a @fede101 per il sostegno e la review e, ovviamente a [@]dergigi per l'opera 
-originale.
+A collection of lessons learned from falling down the Bitcoin rabbit hole. 
+
+Visit [21Lessons.com](https://21lessons.com/) to view a live version of this site. 
+
+Maintained by [@dergigi](https://github.com/dergigi/) - previously hosted on https://dergigi.com
