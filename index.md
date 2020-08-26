@@ -19,8 +19,6 @@ Questa è la traduzione in italiano dei contenuti principali del sito
 
 {% for file in site.static_files %}
 {% if file.extname == ".md" %}
-
 [{{ file.basename }}]({{site.baseurl}}/{{file.basename}})
-
 {% endif %}
 {% endfor %}
