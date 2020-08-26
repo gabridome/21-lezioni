@@ -34,7 +34,3 @@ Un'esplorazione sulle domande e sulle lezioni apprese nel cadere dentro la tana 
 </center>
 
 
-<!-- Links -->
-
-<!-- Internal  -->
-[preface]: {{ 'preface' | absolute_url }}
