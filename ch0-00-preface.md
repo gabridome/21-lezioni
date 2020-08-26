@@ -1,4 +1,4 @@
-<h1>Prefazione</h1>
+= Prefazione
 
 <quote>"La piccola Alice <br/> g <br/> i <br/> ù <br/>  per il buco, <br/> battè la testa <br/>  e si ferì."</quote>
 
