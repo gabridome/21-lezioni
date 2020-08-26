@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # 21 Lezioni
 
 Un'esplorazione sulle domande e sulle lezioni apprese nel cadere dentro la tana del Bianconiglio del Bitcoin.
