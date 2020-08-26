@@ -29,8 +29,7 @@ Un'esplorazione sulle domande e sulle lezioni apprese nel cadere dentro la tana 
 
 <center>
   <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.webp"/></a></p>
+  [Follow the white rabbit →](preface)</p>
 </center>
 
 
