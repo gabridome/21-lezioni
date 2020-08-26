@@ -2,6 +2,14 @@
 
 You can use the [editor on GitHub](https://github.com/gabridome/21-lezioni/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+If instead you want to link to an other document on your site, please try theese:
+
+* [prova 1](ch0-00-preface)
+* [Prova con percorso assoluto](https://gabridome.github.io/21-lezioni/ch0-00-preface)
+* [prova un'altra pagina](README)
+* [prova l'indice con percorso assoluto](https://gabridome.github.io/21-lezioni/index.md)
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
