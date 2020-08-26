@@ -27,9 +27,8 @@ Un'esplorazione sulle domande e sulle lezioni apprese nel cadere dentro la tana 
 > Majesty?' he asked. '[Begin at the beginning][preface],' the King said
 > gravely, 'and go on till you come to the end: then stop.'
 
-<center>
-  <p>Ready to enter Wonderland?<br/>
-  [Follow the white rabbit →](preface)</p>
-</center>
+
+  Ready to enter Wonderland?
+  [Follow the white rabbit →](preface)
 
 
