@@ -1,3 +1,4 @@
+```
 ---
 layout: lezione
 title: Prefazione
@@ -7,6 +8,7 @@ permalink: preface
 order: ch0-00
 toc: true
 ---
+```
 
 Cadere dentro alla tana del coniglio del Bitcoin è un'esperienza strana. Come molti altri,
 sento di aver imparato di più negli ultimi due anni studiando Bitcoin
