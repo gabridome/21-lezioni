@@ -1,6 +1,11 @@
-= Prefazione
+# Prefazione
 
-<quote>"La piccola Alice <br/> g <br/> i <br/> ù <br/>  per il buco, <br/> battè la testa <br/>  e si ferì."</quote>
+> "La piccola Alice <br/>
+> g<br/>
+> i<br/>
+> ù<br/>
+> per il buco,<br/> 
+> battè la testa <br/>  e si ferì."
 
 Cadere dentro alla tana del coniglio del Bitcoin è un'esperienza strana. Come molti altri,
 sento di aver imparato di più negli ultimi due anni studiando Bitcoin
