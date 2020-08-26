@@ -16,4 +16,3 @@ Questa è la traduzione in italiano dei contenuti principali del sito
 [{{ file.basename }}]({{site.baseurl}}/{{file.basename}})
 {% endif %}
 {% endfor %}
-
