@@ -30,6 +30,6 @@ Un'esplorazione sulle domande e sulle lezioni apprese nel cadere dentro la tana 
 
   Ready to enter Wonderland?
   
-  [Follow the white rabbit →](https://gabridome.github.io/21-lezioni/ch0-00-preface]
+  [Follow the white rabbit →](https://gabridome.github.io/21-lezioni/ch0-00-preface)
 
 
