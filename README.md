@@ -1,11 +1,8 @@
----
-title: Leggimi
----
+# 21 Lessons
+## What I've Learned from Falling Down the Bitcoin Rabbit Hole
 
-# 21-lezioni
+A collection of lessons learned from falling down the Bitcoin rabbit hole. 
 
-Questo sito contiene la traduzione in Italiano delle 21 lezioni sul Bitcoin, che potete
-Trovare in lingua originale sul sito https://21lessons.com.
+Visit [21Lessons.com](https://21lessons.com/) to view a live version of this site. 
 
-Grazie a fede101 per il sostegno e la review e, ovviamente a "at" dergigi per l'opera 
-originale.
+Maintained by [@dergigi](https://github.com/dergigi/) - previously hosted on https://dergigi.com
