@@ -10,7 +10,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 ### Reading
 
-- 🎧 [Chapter I][ch1-audio], [Chapter II][ch2-audio], and [Chapter
+- 🎧 [Capitolo I][ch1-audio], [Capitolo II][ch2-audio], and [Capitolo
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
 

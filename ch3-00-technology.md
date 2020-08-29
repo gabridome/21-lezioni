@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Chapter III
+title: Capitolo III
 subtitle: Teconologia
 quote: "\"Adesso, starò più attenta \" disse a sè stessa, e cominciò prendendo la piccola chiave dorata, e aprendo la porta che immetteva nel giardino."
 audio: /assets/audio/21lessons/3-00.m4a
