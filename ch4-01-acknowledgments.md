@@ -1,50 +1,51 @@
 ---
 layout: lesson
-title: Acknowledgments
+title: Ringraziamenti
 quote: "\"Thank you,\" said Alice"
 permalink: acknowledgments
 order: ch4-01
 toc: true
 ---
 
-Thanks to the countless authors and content producers who
-influenced my thinking on Bitcoin and the topics it touches. There
-are too many to list them all, but I'll do my best to name a few.
+Grazie agli innumerevoli autori e produttori di contenuti che
+hanno influenzato il mio pensiero sul Bitcoin e sugli argomenti che tocca. 
+Ce ne sono troppi per elencarli tutti, ma farò del mio meglio per citarne alcuni.
 
 <!-- Part I -->
--   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
+-   Grazie a [Arjun Balaji] for [the tweet] which motivated me to
     write this.
--   Thanks to [Marty Bent] for providing endless food for thought
+-   Grazie a [Marty Bent] for providing endless food for thought
     and entertainment. If you are not subscribed to [Marty's Ƀent] and
     [Tales From The Crypt], you are missing out. Cheers [Matt] and Marty
     for guiding us through the rabbit hole.
--   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
+-   Grazie a [Michael Goldstein] and [Pierre Rochard] for curating and
     providing the greatest Bitcoin literature via the [Nakamoto
     Institute]. And thank you for creating the [Noded Podcast]
     which influenced my philosophical views on Bitcoin substantially.
--   Thanks to [Peter McCormack] for his [honest tweets] and the [What
+-   Grazie a [Peter McCormack] for his [honest tweets] and the [What
     Bitcoin Did] podcast, which keeps providing great insights from many
     areas of the space.
 <!-- Part II -->
--   Thanks to [Andreas M. Antonopoulos] for all the [educational
-    material] he has put out over the years.
--   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
-    writing The Bitcoin Standard
--   Thanks to [Francis Pouliot] for sharing his excitement about
-    finding out about the [timechain].
--   Thanks to [Jannik], [Brandon], [Matt], [Camilo], [Daniel], [Michael], and
-    [Raphael] for providing feedback to early drafts of some lessons.
-    Special thanks to [Jannik] who proofread multiple drafts multiple times.
+-   Grazie a [Andreas M. Antonopoulos] per tutto il [materiale educativo][educational
+    material] che ha messo insieme in tutti questi anni.
+-   Grazie a [Saifedean Ammous] per le sue convinzioni, i suoi tweet feroci, e
+    per aver scritto The Bitcoin Standard
+-   Grazie a [Francis Pouliot] per aver condiviso il suo entusiasmo nello scoprire
+    la [timechain].
+-   Grazie a [Jannik], [Brandon], [Matt], [Camilo], [Daniel], [Michael], and
+    [Raphael] per il feedback alle prime bozze di alcune lezioni.
+    Un Grazie speciale a [Jannik] che ha riletto molte bozze molte volte.
 <!-- Part III -->
--   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to
-    discuss some of these ideas with me.
--   Thanks to [Guy Swann] for producing an audio version
-    of 21lessons.com.
--   Last but not least, thanks to all the bitcoin maximalists, shitcoin
-    minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is Bitcoin twitter. And finally, thank *you* for
-    reading this. I hope you enjoyed it as much as I did enjoy writing it.
-    Feel free to [reach out to me] on twitter. My DMs are open.
+-   Grazie a [Dhruv Bansal] and [Matt Odell] per aver speso tempo 
+    per discutere con me alcune idee.
+-   Grazie a [Guy Swann] per aver prodotto una versione audio di 21lessons.com.
+-   Non ultimo, Grazie a tutti i massimalisti Bitcoin, ai minimalisti shitcoin, 
+    tifosi, bots, and shitposters che risiedono nel bellissimo giardino 
+    che è Bitcoin Twitter. E infine, grazie a  *te* per 
+    aver letto questo. Spero tu lo abbia apprezzato almeno quanto io ho apprezzato 
+    scriverlo.
+    Sentitevi liberi di [contattarmi][reach out to me] su twitter. I miei messaggi
+    diretti sono aperti.
 
 <!-- Twitter -->
 [Guy Swann]: https://twitter.com/TheCryptoconomy

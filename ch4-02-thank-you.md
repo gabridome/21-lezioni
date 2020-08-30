@@ -1,24 +1,25 @@
 ---
 layout: lesson
-title: Thank You
-subtitle: ...for reading, for being here, for trying to understand.
-quote: "\"It seems very pretty,\" she said when she had finished it, \"but it’s rather hard to understand!\""
+title: Grazie
+subtitle: ... Per aver letto, per essere qui, per aver provato a capire.
+quote: "\"Sembra molto carino \", disse quando lo finì, \" ma è piuttosto difficile da capire!\""
 permalink: thank-you
 order: ch4-02
 toc: true
 ---
 
-Thank you for reading 21 Lessons. I hope you enjoyed it. If you did,
-[please leave a review on Amazon][amazon] (or on [Goodreads][goodreads]) and share it with
-your friends. If you didn't, or have any suggestions for improvements, please reach out to
-me directly.
+Grazie per aver letto le 21 lezioni. Spero vi siano piaciute. Se è così,
+[per favore lasciate una review su Amazon][amazon] (o su [Goodreads][goodreads]) e condividetela 
+con gli amici. Se non vi sono piaciute, o avete qualche suggerimento per dei 
+migliramenti, per favore contattatemi direttamente.
 
-I am currently working on a second, more ambitious project: *21 Ways*. You can
-[support me on Patreon][patreon] to get an exclusive glimpse and early access to current
-drafts, artwork, and other things. Your support allows me to allocate more time to writing
-and creating free, open-source education. It's what I love to do. I hope that I will be able
-to dedicate all my time to it one day. To all of you who support me already: thank you. From
-the bottom of my heart. Thank you.
+Sto lavorando ad un secondo, più ambizioso progetto: *21 Ways*. 
+[Potete sostenermi su Patreon][patreon] per avere un accenno esclusivo e un accesso
+preliminare alle bozze correnti alle opere e ad altre cose. Il vostro supporto mi 
+permette di allocare più tempo alla scrittura ed al creare educazione gratuita e 
+opensource. Questo è ciò che amo fare e spero di essere in grado di dedicare tutto il 
+mio tempo a questo un giorno. A tutti coloro che già mi supportano: Grazie. Dal profondo 
+del mio cuore. Grazie.
 
 [amazon]: https://amzn.to/2VXmQgp
 [goodreads]: https://www.goodreads.com/book/show/50376693-21-lessons

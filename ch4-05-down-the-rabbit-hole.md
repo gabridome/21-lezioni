@@ -1,23 +1,26 @@
 ---
 layout: lesson
-title: Down the Rabbit Hole
-quote: "I almost wish I hadn't gone down that rabbit-hole, and yet, and yet - it's rather curious, you know, this sort of life."
+title: Giù per la tana del Bianconiglio
+quote: "Vorrei quasi non essere sceso in quella tana del Bianconiglio, eppure, eppure - è piuttosto interessante, sai, questo tipo di vita."
 permalink: rabbithole
 order: ch4-05
 toc: true
 ---
 
-### Through the Looking Glass
+### Attraverso lo specchio
 
-After writing 21 Lessons, I wrote some articles and essays to explore a few of Bitcoin's aspects further:
+Dopo aver scritto le 21 lezioni, ho scritto alcuni articoli e saggi per esplorare 
+più in profondità alcuni aspetti del Bitcoin.
 
 {% include looking-glass.html hide_heading=true %}
 
 ----
 
-### Down the Rabbit Hole
+### Giù per la tana del Bianconiglio
 
-Find all 'Down the Rabbit Hole' links for each lesson below. A curated list of Bitcoin resources is available at [bitcoin-resources.com][resources].
+Trovate tutti il link di 'Giù per la tana del Bianconiglio' qui sotto. 
+Una lista aggiornata di risorse sull'argomento Bitcoin è disponibile su
+[bitcoin-resources.com][resources].
 
 {% assign lessons_sorted = site.lessons | sort: 'order' %}
 {% for lesson in lessons_sorted %}
