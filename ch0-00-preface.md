@@ -7,7 +7,6 @@ permalink: preface
 order: ch0-00
 toc: true
 ---
-ciao
 Cadere dentro alla tana del coniglio del Bitcoin è un'esperienza strana. Come molti altri,
 sento di aver imparato di più negli ultimi due anni studiando Bitcoin
 di quanto non abbia imparato nel corso di due decenni di educazione scolastica.

@@ -25,7 +25,7 @@ Nelle prime sette lezioni alcune delle domande filosofiche che il Bitcoin tocca 
 state discusse. Le prossime sette lezioni si occuperanno maggiormente dei soldi e 
 delle questioni economiche.
 
-{% include lesson-list.html Capitolo="2"%}
+{% include lesson-list.html chapter="2"%}
 
 Di nuovo, sarò in grado solo di graffiare la superficie. Bitcoin non è solo 
 ambizioso, ma anche di portata ampia e profonda, il che rende impossibile coprire tutti
