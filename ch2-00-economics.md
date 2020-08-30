@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Chapter II
+title: Capitolo II
 subtitle: Economics
 quote: "Un ampio roseto si trovava all'entrata del giardino: le rose in esso erano bianche, ma c'erano tre giardinieri, intenti a verniciarle di rosso. Ad Alice parve molto strano..."
 audio: /assets/audio/21lessons/2-00.m4a

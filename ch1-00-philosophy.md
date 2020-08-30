@@ -1,6 +1,6 @@
 ---
 layout: lesson
-title: Chapter I
+title: Capitolo I
 subtitle: Filosofia
 quote: "Il topo la guardò in modo piuttosto inquisitorio, e le sembrò ammiccare con uno dei suoi piccoli occhi, ma non disse
 nulla"
