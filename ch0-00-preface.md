@@ -25,7 +25,7 @@ in mano, ma non voglio promettere niente per il momento.
 
 Bitcoin è un insegnante instancabile, ragione per la quale non mi sento di dichiarare 
 che queste lezioni siano onni-comprensive o complete. Sono il riflesso del mio 
-viaggio dentro la tana del bianconiglio. Ci sono molte lezioni da imparare
+viaggio dentro la tana del Bianconiglio. Ci sono molte lezioni da imparare
 e ogni persona imparerà qualcosa di diverso dall'introduzione al mondo del Bitcoin.
 
 Spero che troverete queste lezioni utili e che il processo di apprendimento
